@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 600px;
+    width: 900px;
+    background-color: rgb(174, 244, 244);
+    display: flex;
+ }
+#box1{
+  height: 600px;
+  width: 300px;
+  background-color: aqua; 
+}
+#box2{
+    height: 600px;
+    width: 300px;
+    background-color: rgb(187, 112, 147);
+    
+  }
+  .box3{
+    height: 600px;
+    width: 300px;
+    background-color: rgb(124, 106, 240);
+    
+ }
+  #child1{
+    height:300px;
+    width: 300px;
+    background-color: rgb(189, 125, 22);
+}
+
+#child2{
+    height:300px;
+    width: 300px;
+    background-color: rgb(214, 214, 148); 
+}
+ /* last box,first row */
+   #card1{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(202, 45, 45); 
+ }
+ #card2{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(56, 21, 170);
+ } 
+ #card3{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(47, 180, 105);
+ } 
+ #card4{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(91, 5, 61);
+ } 
+ 
+
+  #div1{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+    display: flex;
+  }
+  #div2{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(104, 104, 254);
+  }
+  #div3{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(139, 139, 243);
+    display: flex;
+  }
